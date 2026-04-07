@@ -1,7 +1,7 @@
 # PySpark Sales Data Pipeline
 
 ## Overview
-This project demonstrates a scalable ETL pipeline using PySpark for processing sales data.
+This project demonstrates a scalable ETL pipeline using PySpark for processing Employee data.
 
 ## Tech Stack
 - PySpark
